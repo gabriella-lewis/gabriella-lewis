@@ -24,6 +24,8 @@ Custom algorithm for generating spatially constrained coordinate sets.
 ---
 
 ## 🛠️ Skills & Tools  
-**Languages:** Python, Java, JavaScript, SQL, R  
-**Frameworks & Tools:** FastAPI, Leaflet.js, Matplotlib, GitLab CI/CD  
-**Domains:** Data Visualization, Cloud Systems, Algorithms, Aviation Tech  
+- **Programming Languages:** Java, Python, SQL, JavaScript, C, HTML, CSS, Assembly
+- **Frameworks & Libraries:** Quarkus, Fast API, PyTorch, Leaflet.js, Java Swing, Java FX
+- **Cloud & Data:** AWS, Power BI, SAS, Microsoft Excel
+- **Developer Tools:** Git, Postman, IntelliJ, VS Code, Figma
+
