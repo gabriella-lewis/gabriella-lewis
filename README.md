@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Gabriella Lewis  
 
-<!--
-**gabriella-lewis/gabriella-lewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Student @ Georgia Tech (Class of 2026)  
+✈️ Passionate about **aviation tech, data visualization, and AI**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects  
+
+### ✈️ [Aviation Dashboard](https://github.com/gabriella-lewis/flight-dashboard)  
+A real-time dashboard for tracking global flights.  
+- **Tech:** Python, FastAPI, REST APIs, JavaScript, Leaflet.js  
+- Integrated live data from **OpenSky Network API** and **OpenWeather API**  
+- Interactive map with weather overlays and aircraft positioning  
+
+---
+
+### 📐 [Coordinate Mapping Algorithm](https://github.com/gabriella-lewis/coordinate-mapping-mapLab)  
+Custom algorithm for generating spatially constrained coordinate sets.  
+- **Tech:** Python, NumPy, Matplotlib  
+- Implements geometric constraints for circle and square bounds  
+- Visualized results with plotted graphs  
+
+---
+
+## 🛠️ Skills & Tools  
+**Languages:** Python, Java, JavaScript, SQL, R  
+**Frameworks & Tools:** FastAPI, Leaflet.js, Matplotlib, GitLab CI/CD  
+**Domains:** Data Visualization, Cloud Systems, Algorithms, Aviation Tech  
